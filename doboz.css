@@ -1,0 +1,33 @@
+#doboz {
+    background-color:blue;
+    padding: 30px;
+    width: 80%;
+    border: 40px ridge magenta;
+    margin: 60px;
+    
+}
+
+#doboz h1{
+    margin: 0;
+    background-color: olive;
+    color:teal;
+
+}
+
+#pottyos{
+
+background-color: lime;
+border: 20px dotted red;
+padding: 30px;
+color:gold;
+
+
+}
+
+#pottyos h1 {
+
+    margin: 2px;
+
+
+
+}
